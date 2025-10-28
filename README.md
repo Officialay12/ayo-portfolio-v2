@@ -12,7 +12,7 @@
 Welcome to the most technically advanced portfolio you'll ever encounter created by Ayo codes. This isn't just a website—it's an interactive experience featuring **AI-powered navigation**, **surgical-grade animations**, and **production-ready features** that convert visitors into clients.
 
 ## 🎯 **Live Demo**
-**[🌐 View Live Portfolio](https://yourdomain.com)**  
+**[🌐 View Live Portfolio](https://officialay12.github.io/ayo-portfolio-v2/pft.html)**  
 *Experience the magic yourself*
 
 ## 🤖 **Features That Set This Apart**
